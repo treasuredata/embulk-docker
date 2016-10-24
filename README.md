@@ -1,2 +1,2 @@
 # embulk-docker
-Embulk dockfile
+Embulk dockerfile
